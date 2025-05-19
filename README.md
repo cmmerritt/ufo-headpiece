@@ -29,7 +29,7 @@ Beginner/intermediate (depends on your familiarity and comfort level with things
 
 ## Skills needed
 - 3D printing (beginner)
-  - I provide the settings that worked for me with the Makerbot Sketch
+  - I provide the settings that worked for me with the Makerbot Sketch, but you may need to adjust based on printer make and model, level of detail you want, etc.
 - Soldering (beginner)
 - Coding (beginner/intermediate)
   - Optional; you can copy the provided code.py onto your Feather
