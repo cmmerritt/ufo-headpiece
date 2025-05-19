@@ -1,7 +1,7 @@
 # UFO Headpiece
 
 ## What it is
-A wearable, animated LED UFO headpiece, originally built for the 2025 McMinnville UFO Festival
+A wearable, animated LED UFO headpiece, originally built for the [2025 McMinnville UFO Fest](https://ufofest.com/)
 
 ## How it works
 A Neopixel ring, mounted in a 3D-printed UFO, cycles through custom light patterns running from a Feather RP2040 and powered by a LiPo battery
