@@ -13,7 +13,7 @@ Beginner/intermediate (depends on your familiarity and comfort level with things
 ### UFO
 #### 3D-printed model
 - 3D printer
-  - Check your local library for free or low-cost printing. I printed my UFO for free at the Shute Park Library in Hillsboro, OR
+  - Check your local library for free or low-cost printing, introductory classes, and open labs. I printed my UFO for free at the Shute Park Library in Hillsboro, OR (highly recommended if you're in the area, but little/no support)
 - Acrylic paint
 - M2 screws and nuts
 #### Electronics
