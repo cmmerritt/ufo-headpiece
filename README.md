@@ -6,39 +6,37 @@ A wearable, animated LED UFO headpiece, originally built for the 2025 [McMinnvil
 ## How it works
 A NeoPixel ring, mounted in a 3D-printed UFO, cycles through custom light patterns running from a Feather RP2040 and powered by a LiPo battery
 
-## Skills needed & difficulty
-Overall this is a very beginner-friendly project!
-- 3D printing (beginner)
-  - I provide the settings that worked for me with the Makerbot Sketch, but you may need to adjust based on printer make and model, level of detail you want, etc.
-- Soldering (beginner)
-- Coding (beginner/intermediate)
-  - Optional; you can copy the provided code.py onto your Feather
+## Equipment & materials needed
 
-## Tools
-- For printing the UFO
-  - 3D printer
-    - Check your local library for free or low-cost printing, introductory classes, and open labs. I printed my UFO for free at the Shute Park Library in Hillsboro, OR
-- For testing and assembling the electronics
-  - Breadboard or clamps to hold components in place
-  - Jumper wires
-  - Soldering iron
+### 🧰 Tools
+These are tools you'll need to build or assemble the project. They are **not part of the final headpiece**.
 
-## Materials 
-### UFO
-#### 3D-printed model
-- See provided STL files for a model you can print that will work with the NeoPixel 24
-- Acrylic paint
-- Mounting hardware (screws & nuts)
-#### Electronics
-- [NeoPixel Ring - 24 x 5050 RGB LED with Integrated Drivers](https://www.adafruit.com/product/1586)
-- [Adafruit Feather RP2040](https://www.adafruit.com/product/4884)
-- [Lithium Ion Polymer Battery - 3.7v 500mAh](https://www.adafruit.com/product/1578)
-### Headpiece base
-- Thick felt (one or more shades of green)
-- Alligator hair clips or headband
-### Other headpiece elements
-- Clear plastic cup for tractor beam (and to hold your UFO securely to the base)
-- Clear plastic tape (if you want UFO to be detachable) or superglue to attach UFO base to plastic cup
-- Miniature trees, shrubbery, etc.
+- [ ] 3D printer
+  - Check your local library for free or low-cost printing, introductory classes, and open labs. Thanks to Shute Park Library in Hillsboro, OR, where I printed my UFO for free!
+- [ ] Soldering iron & solder
+- [ ] Breadboard or clamps (for testing)
+- [ ] Hot glue gun, tape, and/or superglue (for mounting; I used E6000 and clear packing tape)
+- [ ] Screwdriver (for nylon hardware)
+ 
+### 🧩 Electronics for UFO
+The electronics inside the UFO responsible for light effects. Links to Adafruit parts where available.
 
-  
+- [ ] [Adafruit Feather RP2040](https://www.adafruit.com/product/4884)
+- [ ] [NeoPixel Ring - 24 x 5050 RGB LED](https://www.adafruit.com/product/1586)
+- [ ] [Lithium Ion Polymer Battery - 3.7v 500mAh](https://www.adafruit.com/product/1578)
+- [ ] Jumper wires
+  - I tested with male-male jumper wires and also used them for my final product. [Hook-up stranded-core wires](https://www.adafruit.com/product/3111) are probably a better choice for soldering but require stripping with wire strippers
+
+### 🧱 Other components for UFO
+
+- [ ] 3D-printed saucer top and bottom 
+- [ ] Nylon screw and nut kit (M2 size)
+- [ ] Clear plastic cup (for tractor light beam and to hold your UFO securely to the base)
+
+### 🎨 Decoration & Finishing
+
+- [ ] Thick felt (one or more shades of green) (for base)
+- [ ] Alligator hair clips (for base)
+- [ ] Acrylic paint (black, gray, metallic silver...) (for painting UFO)
+- [ ] Decorations for base (miniature trees, shrubbery, etc.)
+
